@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-azure-devops.azure-pipelines",
+        "ms-vscode.azure-account",
+        "ms-toolsai.jupyter",
+        "mindaro.mindaro",
+        "ms-python.python"
+    ]
+}
